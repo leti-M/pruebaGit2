@@ -1,0 +1,14 @@
+para bajar netbeans 17
+https://netbeans.apache.org/front/main/download/nb17/
+
+para bajar postgres
+https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+para bajar el jdk 15 
+(sin registro)
+https://www.techspot.com/https://www.techspot.com/downloads/5552-java-15-jdk.html
+(con registro)
+https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html
+
+para la dependencia
+https://mvnrepository.com/artifact/org.postgresql/postgresql/42.2.16
